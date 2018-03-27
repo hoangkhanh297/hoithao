@@ -1,0 +1,27 @@
+.wrapper {
+	padding: 25px 10%;
+}
+
+.page-title {
+	color: #4286f4;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.btn-cancel {
+	color: #fff;
+	background: #991504;
+	padding: 15px;
+	margin-top: 15px;
+	border: #fff thin solid;
+	text-decoration: none;
+}
+
+.btn-submit {
+	color: #fff;
+	background: #4286f4;
+	padding: 15px;
+	margin-top: 15px;
+	border: #fff thin solid;
+	text-decoration: none;
+}
